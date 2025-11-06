@@ -34,7 +34,7 @@ Each project reflects my goal of combining **automation, AI, and usability** to 
 - **No-Code / Low-Code:** n8n, Zapier, Make (Integromat), Webhooks, Business Process Automation (BPA)
 - **AI & LLMs:** Groq, OpenAI, RAG, Prompt Engineering, NLP, Chatbot Development
 - **APIs & Tools:** Google Sheets API, Notion API, Slack API, REST APIs, Postman
-- **Programming:** Python, JavaScript, Node.js, HTML, CSS
+- **Programming:** Python, JavaScript, HTML, CSS
 - **Version Control:** Git, GitHub
 - **Design & Content:** Figma, Canva
 
