@@ -3,6 +3,7 @@
 # Tanisha Solanki
 
 **AI Automation Specialist | No-Code Workflow Developer | Prompt Engineer**
+
 [LinkedIn](https://www.linkedin.com/in/tanishasolanki05/) | [GitHub](https://github.com/Tanisha500) | [tanishasolanki500@gmail.com](mailto:tanishasolanki500@gmail.com)
 
 ---
@@ -30,12 +31,12 @@ Each project reflects my goal of combining **automation, AI, and usability** to 
 
 ## Technical Skills
 
-**No-Code / Low-Code:** n8n, Zapier, Make (Integromat), Webhooks, Business Process Automation (BPA)
-**AI & LLMs:** Groq, OpenAI, RAG, Prompt Engineering, NLP, Chatbot Development
-**APIs & Tools:** Google Sheets API, Notion API, Slack API, REST APIs, Postman
-**Programming:** Python, JavaScript, Node.js, HTML, CSS
-**Version Control:** Git, GitHub
-**Design & Content:** Figma, Canva
+- **No-Code / Low-Code:** n8n, Zapier, Make (Integromat), Webhooks, Business Process Automation (BPA)
+- **AI & LLMs:** Groq, OpenAI, RAG, Prompt Engineering, NLP, Chatbot Development
+- **APIs & Tools:** Google Sheets API, Notion API, Slack API, REST APIs, Postman
+- **Programming:** Python, JavaScript, Node.js, HTML, CSS
+- **Version Control:** Git, GitHub
+- **Design & Content:** Figma, Canva
 
 ---
 
