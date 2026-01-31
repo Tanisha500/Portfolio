@@ -2,21 +2,17 @@
 
 # Tanisha Solanki
 
-**AI Automation Specialist | No-Code Workflow Developer | Prompt Engineer**
+**AI Automation Specialist | Workflow Developer**
 
 [LinkedIn](https://www.linkedin.com/in/tanishasolanki05/) | [GitHub](https://github.com/Tanisha500) | [tanishasolanki500@gmail.com](mailto:tanishasolanki500@gmail.com)
 
----
-
 ## About Me
 
-Driven by curiosity and a vision to simplify complex systems, I specialize in **AI automation**, **no-code workflow development**, and **intelligent integrations**.
-I design and build automation systems that connect data, people, and AI to make operations smarter, faster, and more efficient.
+I am an AI Automation Specialist with a strong focus on building reliable, structured, and human-safe automation systems. My work centers on designing workflows that reduce manual effort while maintaining clarity, control, and sound judgment.
 
-I create **AI-powered automations**, **chatbots**, and **data-driven workflows** using tools like **n8n**, **Zapier**, and **Make**, integrated with **OpenAI**, **Groq**, and **Google APIs**.
-My focus is on building **human-centric automation** — blending AI with no-code logic to solve real-world business problems and deliver measurable results.
+I approach automation through systems thinking—breaking complex problems into clear, manageable processes and integrating AI only where it adds real value. Rather than chasing novelty, I focus on building workflows that are predictable, explainable, and adaptable across different business contexts.
 
----
+I work extensively with no-code / low-code automation, LLM-powered logic, and API-driven integrations, ensuring that AI-driven systems remain stable, auditable, and easy to reason about.
 
 ## Key Highlights
 
@@ -27,18 +23,21 @@ My focus is on building **human-centric automation** — blending AI with no-cod
 
 Each project reflects my goal of combining **automation, AI, and usability** to create scalable, intelligent systems.
 
----
-
 ## Technical Skills
 
-- **No-Code / Low-Code:** n8n, Zapier, Make (Integromat), Webhooks, Business Process Automation (BPA)
-- **AI & LLMs:** Groq, OpenAI, RAG, Prompt Engineering, NLP, Chatbot Development
-- **APIs & Tools:** Google Sheets API, Notion API, Slack API, REST APIs, Postman
-- **Programming:** Python, JavaScript, HTML, CSS
+- **AI & Automation:**
+n8n • Zapier • Make • Business Process Automation • Workflow Orchestration • Prompt Engineering • RAG • Chatbots • AI-Assisted Decision Workflows • Conditional Logic & Error Handling • Conversational AI Systems
+
+- **APIs & Integrations:**
+LLM & AI APIs: OpenAI • Claude • Hugging Face • LLaMA • ElevenLabs (TTS) • Whisper (STT)
+SaaS & Platform Integrations: Google Workspace • CRM & Collaboration Tools (Notion, Slack) • MS Office Workspace
+APIs, Databases & Storage: REST APIs • Webhooks • API Authentication • FastAPI • Postman • Firebase • Supabase • Vector Databases (Chroma)
+
+- **Programming & Scripting:** Python (automation scripts, API calls) • Java • JavaScript (for n8n Function Nodes) • JSON
+
+- **Web & Frontend:** HTML • CSS • JavaScript • React
 - **Version Control:** Git, GitHub
 - **Design & Content:** Figma, Canva
-
----
 
 ## Education
 
@@ -46,23 +45,17 @@ Each project reflects my goal of combining **automation, AI, and usability** to 
 Chameli Devi Group of Institutions, Indore
 2022 – 2026 | CGPA: 8.75
 
----
-
 ## Certifications
 
 * Introduction to Machine Learning – NPTEL
 * The Joy of Computing with Python – NPTEL
 * IT-ITeS Sector Conforming to Level 2 – NSDC Skill India
 
----
-
 ## Contact
 
 * Email: [tanishasolanki500@gmail.com](mailto:tanishasolanki500@gmail.com)
 * LinkedIn: [linkedin.com/in/tanishasolanki05](https://www.linkedin.com/in/tanishasolanki05/)
 * GitHub: [github.com/Tanisha500](https://github.com/Tanisha500)
-
----
 
 *"I believe the future of work is intelligent — powered by automation, built with purpose."*
 Let’s collaborate on **AI automation**, **RAG systems**, or **no-code AI projects.**
