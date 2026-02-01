@@ -14,14 +14,19 @@ I approach automation through systems thinking—breaking complex problems into 
 
 I work extensively with no-code / low-code automation, LLM-powered logic, and API-driven integrations, ensuring that AI-driven systems remain stable, auditable, and easy to reason about.
 
-## Key Highlights
+## Key Projects
 
-* **RAG-Based Telegram Policy Assistant Bot** – Real-time document-based Q&A system using Groq API and n8n.
-* **Form-to-Article Generator** – Converts form inputs into AI-generated blog content automatically.
-* **Customer Feedback Auto-Classifier** – Classifies reviews (Positive, Negative, Neutral) and generates summaries in Google Sheets.
-* **Text-to-Speech Automation** – Uses ElevenLabs + Google Drive API for seamless audio file creation and upload.
+* **AI Operations Assistant – Order Intelligence System**
+Designed an automation system to analyze incoming operational queries, classify intent, extract relevant context, and route actions appropriately. The system reduced manual handling while ensuring decisions remained controlled and auditable.
 
-Each project reflects my goal of combining **automation, AI, and usability** to create scalable, intelligent systems.
+* **RAG-Based Telegram Policy Assistant**
+Developed a document-aware conversational assistant that answers user queries using internal policy documents via retrieval-augmented generation, delivering accurate, context-grounded responses through Telegram.
+
+* **Customer Feedback Auto-Classifier**
+Created an automated pipeline that analyzes customer feedback, classifies sentiment (Positive, Neutral, Negative), and generates structured summaries to reduce manual review effort.
+
+* **Judgment Agent**
+Built an AI-assisted judgment agent that evaluates incoming requests using structured criteria such as intent, authority, and risk before deciding whether to proceed, defer, or escalate. The system combines rule-based logic with LLM reasoning to ensure safe, controlled, and explainable automation.
 
 ## Technical Skills
 
