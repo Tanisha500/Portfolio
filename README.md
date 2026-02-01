@@ -16,16 +16,16 @@ I work extensively with no-code / low-code automation, LLM-powered logic, and AP
 
 ## Key Projects
 
-* **AI Operations Assistant – Order Intelligence System**
+* **AI Operations Assistant – Order Intelligence System:**
 Designed an automation system to analyze incoming operational queries, classify intent, extract relevant context, and route actions appropriately. The system reduced manual handling while ensuring decisions remained controlled and auditable.
 
-* **RAG-Based Telegram Policy Assistant**
+* **RAG-Based Telegram Policy Assistant:**
 Developed a document-aware conversational assistant that answers user queries using internal policy documents via retrieval-augmented generation, delivering accurate, context-grounded responses through Telegram.
 
-* **Customer Feedback Auto-Classifier**
+* **Customer Feedback Auto-Classifier:**
 Created an automated pipeline that analyzes customer feedback, classifies sentiment (Positive, Neutral, Negative), and generates structured summaries to reduce manual review effort.
 
-* **Judgment Agent**
+* **Judgment Agent:**
 Built an AI-assisted judgment agent that evaluates incoming requests using structured criteria such as intent, authority, and risk before deciding whether to proceed, defer, or escalate. The system combines rule-based logic with LLM reasoning to ensure safe, controlled, and explainable automation.
 
 ## Technical Skills
