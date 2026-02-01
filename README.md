@@ -35,9 +35,9 @@ n8n • Zapier • Make • Business Process Automation • Workflow Orchestrati
 
 - **APIs & Integrations:**
 
-- LLM & AI APIs: OpenAI • Claude • Hugging Face • LLaMA • ElevenLabs (TTS) • Whisper (STT)
-- SaaS & Platform Integrations: Google Workspace • CRM & Collaboration Tools (Notion, Slack) • MS Office Workspace
-- APIs, Databases & Storage: REST APIs • Webhooks • API Authentication • FastAPI • Postman • Firebase • Supabase • Vector Databases (Chroma)
+1. LLM & AI APIs: OpenAI • Claude • Hugging Face • LLaMA • ElevenLabs (TTS) • Whisper (STT)
+2. SaaS & Platform Integrations: Google Workspace • CRM & Collaboration Tools (Notion, Slack) • MS Office Workspace
+3. APIs, Databases & Storage: REST APIs • Webhooks • API Authentication • FastAPI • Postman • Firebase • Supabase • Vector Databases (Chroma)
 
 - **Programming & Scripting:** Python (automation scripts, API calls) • Java • JavaScript (for n8n Function Nodes) • JSON
 
